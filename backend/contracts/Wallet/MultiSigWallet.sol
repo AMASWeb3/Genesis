@@ -131,7 +131,7 @@ contract MultiSigWallet {
         transactions.push(
             Transaction({to: _to, value: _value, data: _data, executed: false})
         );
-        // イベントの発行
+        
         emit Submit(transactions.length - 1);
     }
 
