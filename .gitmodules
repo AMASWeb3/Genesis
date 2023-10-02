@@ -1,0 +1,9 @@
+[submodule "api"]
+    path = api
+    url = https://github.com/papiasharmin/idqApi.git
+[submodule "backend"]
+    path = backend
+    url = https://github.com/papiasharmin/idq-backend.git
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/papiasharmin/idqFront.git
