@@ -1,3 +1,9 @@
+The Genesis project is a Web 3 open source project. 
+-The mission of the project is onboarding and mass adoption. 
+It is a herd of side projects and hackathon projects that have emerged from the web 3 toolkit.
+
+include IDQ | Soul wallet | Tive ◉ | OKE | CHHEP 
+
 ## Product Name
 
 IDQ Soul Wallet
@@ -10,12 +16,12 @@ IDQ Soul Wallet
 
 
 ## demo video
- https://www.youtube.com/watch?v=jGQNppzjxzg&t=169s
+ https://youtu.be/TfPqbp29ESI?feature=shared
 
 
 ## pitch
 
-[ピッチ資料]()
+[ピッチ資料](https://bit.ly/3Rz2C9c)
 
 
 ## Summary
