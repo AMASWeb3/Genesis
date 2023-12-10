@@ -46,7 +46,7 @@ Features to be added:
 
 ## Product URL
 
-[IDQ Soul Wallet](https://idq-soul-wallet-zeta.vercel.app/)
+[IDQ Soul Wallet](https://idqsoulwallet.vercel.app/)
 
 ## Github repo(open) URL
 
