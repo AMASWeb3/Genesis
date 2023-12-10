@@ -2,7 +2,7 @@ The Genesis project is a Web 3 open source project.
 -The mission of the project is onboarding and mass adoption. 
 It is a herd of side projects and hackathon projects that have emerged from the web 3 toolkit.
 
-include IDQ | Soul wallet | Tive ◉ | OKE | CHHEP 
+include IDQ | Soul wallet | Tive ◉ | OKE | and more,.
 
 ## Product Name
 
